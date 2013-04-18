@@ -18,7 +18,7 @@ As a technical lead at IBM, I experienced how crippling knowledge silos can be t
 
 Big enterprises are not the only organizations with knowledge silo problems. For the past year I worked at a speech recognition and natural language understanding startup. I participated in about 6000 minutes of standup meetings. None of my coworkers have any record of those 6000 minutes, other than what was manually typed in Skype chats and email threads.
 
-Internal documentation is a solution to the knowledge siloing problem that is easy for managers to prescibe, but is hard for team members to practice. Creating documentation is time-consuming and is seldom prioritized by busy employees. Even at IBM, where my team had a suite of excellent wiki page templates, we rarely kept our documents up-to-date. Around the watercooler we jokingly referred to our oft-neglected documentation duties as flossing.
+Internal documentation is a solution that is easy for managers to prescibe, but is hard for team members to practice. Creating documentation is time-consuming and is seldom prioritized by busy employees. Even at IBM, where my team had a suite of excellent wiki page templates, we rarely kept our documents up-to-date. Around the watercooler we jokingly referred to our oft-neglected documentation duties as flossing.
 
 
 
@@ -33,7 +33,7 @@ Noted collects and organizes communications that are transient or hard to share,
 @1:45
 @slide4 - solution2
 During the past months I've talked to my old managers, other project leads, and a lot of developers and engineers. I commonly hear something like this:
-After a standup meeting, they will go back to their desks. Over the course of the day, they'll use Skype to ask each other "who should I contact at the client again?" or "so wait, did you say you were going to take that work ticket?" In other words, they must interrupt each other to recall information from the meeting, because there is no record of that they can refer back to.
+After a standup meeting, they will go back to their desks. Over the course of the day, they'll use Skype to ask each other "who should I contact at the client again?" or "so wait, did you say you were going to take that work ticket?" In other words, they must interrupt each other to recall information from the meeting, because there is no record that they can refer back to.
 
 Noted transcribes your in-person meetings, and sends everyone a summary of the important parts afterwards.
 
@@ -47,7 +47,7 @@ Recording a meeting is as simple as clicking a button in an app on your mobile d
 
 @2:25
 @slide7 - demo 2
-Shortly after your meeting concludes, all of the participants will receive an email with a digest of the meeting. The email pulls attendee information from the meeting invitation, and extracts key points and topics from the meeting's transcript. You can follow a link back to your team's wiki to view the complete transcript if you need a specific detail.
+Shortly after your meeting concludes, all of the participants will receive an email with a digest of the meeting. The email pulls attendee information from the meeting invitation, and extracts key points and topics from the meeting's transcript. You can follow a link back to your team's wiki to review the complete transcript if you need a specific detail.
 
 
 @2:50
@@ -74,15 +74,17 @@ As mentioned, I worked as a technical lead at IBM, where I managed the developme
 
 I also led the development of a system for generating speech recognition and parsing grammars at OneTok. I've worked professionally and in school projects on speech and natural language processing problems.
 
+
+
 @slide11 - business
 As with Atlassian, the developer of many cloud-based project management tools for engineers, Noted's customers will subscribe to features and pay per user per month.
 
-IDC estimates that project portfolio management tools are a $4.2 billion market.
+IDC estimates that project portfolio management tools are a $4.2 billion market this year.
 
+I've been interviewing people in engineering teams for the past few months. As I complete an end-to-end prototype of the system I plan to begin user testing with some of these teams. 
 
+Most of my professional experience is with development teams. Because I have a personal need for a tool like Noted in my own work, the initial customers I target will be project managers for software.
 
+There are startups that are exploring human-corrected transcription, and many competitors in the Wiki and document creation space, but I have not found any that aspire to passively collect and organize information.
 
-
-
-
-Competitors like Evernote, Confluence, and Google Docs have all worked to optimize the user's documentation experience. I believe that a great user experience for creating documents is essential, but that most of the time the user should not have to create the documents.
+Noted does, and would like to help you take the work out of documenting your work.
