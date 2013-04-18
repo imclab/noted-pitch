@@ -18,7 +18,7 @@ As a technical lead at IBM, I experienced how crippling knowledge silos can be t
 
 Big enterprises are not the only organizations with knowledge silo problems. For the past year I worked at a speech recognition and natural language understanding startup. I participated in about 6000 minutes of standup meetings. None of my coworkers have any record of those 6000 minutes, other than what was manually typed in Skype chats and email threads.
 
-Internal documentation is a solution that is easy for managers to prescibe, but is hard for team members to practice. Creating documentation is time-consuming and seldom prioritized by busy employees. Even at IBM, where my team had a suite of excellent wiki page templates, we rarely kept our documents up-to-date. Around the watercooler we jokingly referred to our oft-neglected documentation duties as flossing.
+Internal documentation is a solution to the knowledge siloing problem that is easy for managers to prescibe, but is hard for team members to practice. Creating documentation is time-consuming and is seldom prioritized by busy employees. Even at IBM, where my team had a suite of excellent wiki page templates, we rarely kept our documents up-to-date. Around the watercooler we jokingly referred to our oft-neglected documentation duties as flossing.
 
 
 
@@ -72,7 +72,7 @@ I am discussing co-founder roles with two people I have previously worked with.
 
 As mentioned, I worked as a technical lead at IBM, where I managed the development of sales and administrative web apps for use within the company. 
 
-I also led the development of a system for generating speech recognition and parsing grammars at OneTok.
+I also led the development of a system for generating speech recognition and parsing grammars at OneTok. I've worked professionally and in school projects on speech and natural language processing problems.
 
 @slide11 - business
 As with Atlassian, the developer of many cloud-based project management tools for engineers, Noted's customers will subscribe to features and pay per user per month.
