@@ -1,0 +1,101 @@
+Noted
+NotedFor.Me
+
+@0:00
+@slide1 - Cover
+
+Knowledge becomes siloed in organizations. Information that needs to be available to everyone on the team becomes tied up, or siloed, in a few people's heads. This causes mistakes, delays and redundant communication, making everyone less productive.
+
+I'm Gavin Hackeling, and I'm going to talk to you about Noted.
+
+
+
+
+@0:20
+@slide2 - Problem
+
+As a technical lead at IBM, I experienced how crippling knowledge silos can be to an organization. I saw how frustrated team members became when a deployment deadline was missed because information repeated in a dozen conversations was never saved, and was not accessible to the right people at the right time.
+
+Big enterprises are not the only organizations with knowledge silo problems. For the past year I worked at a speech recognition and natural language understanding startup. I participated in about 6000 minutes of standup meetings. None of my coworkers have any record of those 6000 minutes, other than what was manually typed in Skype chats and email threads.
+
+Internal documentation is a solution that is easy for managers to prescibe, but is hard for team members to practice. Creating documentation is time-consuming and seldom prioritized by busy employees. Even at IBM, where my team had a suite of excellent wiki page templates, we rarely kept our documents up-to-date. Around the watercooler we jokingly referred to our oft-neglected documentation duties as flossing.
+
+
+
+@1:30
+@slide3 - solution
+Noted creates documentation passively, without making you change your work habits, so that you can work on what's important.
+
+Noted collects and organizes communications that are transient or hard to share, like in-person meetings and online chats, and organizes them in your team's wiki.
+
+
+
+@1:45
+@slide4 - solution2
+During the past months I've talked to my old managers, other project leads, and a lot of developers and engineers. I commonly hear something like this:
+After a standup meeting, they will go back to their desks. Over the course of the day, they'll use Skype to ask each other "who should I contact at the client again?" or "so wait, did you say you were going to take that work ticket?" In other words, they must interrupt each other to recall information from the meeting, because there is no record of that they can refer back to.
+
+Noted transcribes your in-person meetings, and sends everyone a summary of the important parts afterwards.
+
+
+
+@2:20
+@slide6 - demo
+Recording a meeting is as simple as clicking a button in an app on your mobile device. Then you proceed normally with your meeting.
+
+
+
+@2:25
+@slide7 - demo 2
+Shortly after your meeting concludes, all of the participants will receive an email with a digest of the meeting. The email pulls attendee information from the meeting invitation, and extracts key points and topics from the meeting's transcript. You can follow a link back to your team's wiki to view the complete transcript if you need a specific detail.
+
+
+@2:50
+@slide8 - tech
+I've spent more than a year working in a speech recognition startup, and I know that automatic transcription that is as accurate as human transcription is still many years away.
+
+That's why I have prototyped an approach for parallel, human-corrected machine transcription. A recording is first transcribed using technology licensed from the company behind Siri's voice recognition. The recording and the machine transcript are split into short, overlapping segments and dispatched to a pool of human workers for correction.
+
+By having many workers simultaneously correct short segments, a meeting can be accurately transcribed quickly and cheaply.
+
+@possibly skip
+@3:20
+@slide9 - tech2
+The cheapest human transcription costs about $1/minute of audio, and a human transcriptionist may require more than 3 minutes to transcribe 1 minute of speech.
+
+Based on current rates for Amazon Mechanical Turk, Noted's human-corrected transcription would cost less than 25 cents per minute. If enough workers are available, the amount of time required for transcription is equal to the length of the audio segments. That is, a 15 minute meeting could be transcribed in about 10 seconds if 90 workers were available, or a minute and a half if 10 workers were available.
+
+
+@3:50
+@slide10 - team
+I am discussing co-founder roles with two people I have previously worked with.
+
+As mentioned, I worked as a technical lead at IBM, where I managed the development of sales and administrative web apps for use within the company. 
+
+I also led the development of a system for generating speech recognition and parsing grammars at OneTok.
+
+@slide11 - business
+As with Atlassian, the developer of many cloud-based project management tools for engineers, Noted's customers will subscribe to features and pay per user per month.
+
+IDC estimates that project portfolio management tools are a $4.2 billion market.
+
+
+
+
+
+
+
+Competitors like Evernote, Confluence, and Google Docs have all worked to optimize the user's documentation experience. I believe that a great user experience for creating documents is essential, but that most of the time the user should not have to create the documents.
+
+
+
+
+
+
+
+
+
+know your audience
+
+selling business, not tech
+cover competition: evernote, keep
